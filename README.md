@@ -61,3 +61,8 @@ The objective was to identify vulnerabilities, exploit them to demonstrate real-
 4. **Sanitize Metadata:** Strip all metadata (comments, author, software versions) from files before publishing them to the web.
 5. **Implement a WAF:** Deploy a Web Application Firewall to block SQLi payloads and directory brute-forcing attempts.
 
+## 📸 Snapshots
+All the Snapshots and evidences find during this penetration testing are stored in the ScreenShot folder.
+
+## ⚖️ Disclaimer
+This lab was performed strictly for educational purposes on a private, authorized target domain. Scanning or testing systems you do not own or have explicit permission to test is illegal.
